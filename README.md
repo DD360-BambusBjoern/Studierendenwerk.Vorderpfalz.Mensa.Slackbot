@@ -1,0 +1,1 @@
+# Studierendenwerk.Vorderpfalz.Mensa.Slackbot
